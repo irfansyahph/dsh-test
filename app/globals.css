@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* body {
+    font-family: Poppins, sans-serif;
+    font-weight: 300;
+} */
+
+.header {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+}
+
+.sora {
+    font-family: "Sora", sans-serif;
+    font-weight: 600;
+}
